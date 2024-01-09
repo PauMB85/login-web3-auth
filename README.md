@@ -17,7 +17,7 @@ e indicar tu client_id generado en Web3Auth dashboard.
 2. instalar dependencias
 
 ```bash
-npm install ci
+npm ci
 ```
 
 3. arrancar proyecto
@@ -25,3 +25,9 @@ npm install ci
 ```bash
 npm run dev
 ```
+
+# info
+
+[Web3 Auth](https://web3auth.io/)
+
+[ERC-7443 - Account abstraction](https://www.erc4337.io/)
